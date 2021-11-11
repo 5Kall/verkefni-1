@@ -1,0 +1,23 @@
+
+1.
+cd: leyfir þér að færa þig sjálfa/n milli skráa
+ls: lesir upp hvað er í skránni
+pwd: sýnir núverandi skrá
+mkdir: býr til vinnuskrá
+
+2.
+git clone: það afritar hluti
+git status: sýnir stöðu vinnuskrárinnar
+git diff: margnota skipun sem keyrir mismunandi aðgerð á git gagnaveitum
+
+3.
+git log) skipunin sýnir commit hash - git checkout) gerir þér kleyft að fletta milli grena - git branch) gerir margt t.d. breyta, búa til, eyða, endurnefna
+
+4.
+version control: er kerfi sem skráir breytingar eða safni skráa
+
+5.góðir kostir við að nota git er greiningargeta þess,git branches eru létt að stjórna 
+
+6.Þegar þú hefur breytt skránni er gott að gera commit og skrá hvað þú breyttir ef þú ert með vinnufélögum sem gæti fundið það hjálplegt að vita hvað hefur verið breytt
+
+7.þegar er átt við working directory er átt við svæðið sem þú ert að vinna á
